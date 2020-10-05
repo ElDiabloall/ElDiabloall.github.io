@@ -1,0 +1,7 @@
+p { font-family: comic sans;
+     color: maroon; }
+
+h1, h2 { font-family: comic sans;
+             color: gray; }
+
+h1 { border-bottom: 1px solid black }
