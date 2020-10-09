@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "19759";
+	src: 
+                       url("19759.eot"),
+                       url("19759.svg"),
+                       url("19759.ttf"),
+                       url("19759.woff"); 
+}
+body { 
+   font-family: "19759", sans-serif; 
+}
