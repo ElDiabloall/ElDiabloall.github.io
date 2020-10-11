@@ -1,8 +1,0 @@
-@font-face {
-	font-family: "Emblema One";
-	src: 
-url("EmblemaOne-Regular.eot"),
-url("EmblemaOne-Regular.svg"),
-url("EmblemaOne-Regular.ttf"),
-url("EmblemaOne-Regular.woff"); 
-}
